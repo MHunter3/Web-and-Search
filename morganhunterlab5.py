@@ -2,7 +2,7 @@
 #Web and Search
 #Application to put a decision on business opertations (bizop) table
 #Compute the number of instances of each topic of interest
-#Prove a simple and complete report of instances
+#Print a simple and complete report of instances
 
 import datetime
 import re
